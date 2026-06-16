@@ -15,7 +15,6 @@ Throughout this project, I worked with real-world datasets to explore trends, bu
 
 ### 🌍 Global Health Analysis (Tableau)
 
-![Tableau Dashboard Example](https://upload.wikimedia.org/wikipedia/commons/0/0e/Tableau_dashboard_example.png)
 
 Analysed an international health dataset to identify patterns in life expectancy, population, and health indicators.
 
@@ -47,7 +46,6 @@ Analysed an international health dataset to identify patterns in life expectancy
 
 ### 🎵 Spotify Data Analysis (Tableau)
 
-![Data Visualisation Example](https://upload.wikimedia.org/wikipedia/commons/5/5c/Data_visualization_process_v1.png)
 
 Explored a music dataset to analyse genre popularity and track characteristics.
 
@@ -63,7 +61,6 @@ Explored a music dataset to analyse genre popularity and track characteristics.
 
 ### 📊 Power BI Reporting & Data Transformation
 
-![Power BI Dashboard](https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_dashboard_example.png)
 
 Completed multiple hands-on labs focused on building professional reports and transforming datasets.
 
@@ -118,4 +115,4 @@ Completed multiple hands-on labs focused on building professional reports and tr
 
 This project demonstrates my ability to take raw data, analyse it effectively, and present insights through clear and engaging dashboards. It reflects the core skills required for an entry-level data role, including data handling, visualisation, and analytical thinking.
 
-{link tp my report} (https://app.powerbi.com/view?r=eyJrIjoiOWI4NjNiZjUtM2Q4Ni00ZmRjLWFlYTctMjFjNDc4MTU3NmUwIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
+[Link to my report](https://app.powerbi.com/view?r=eyJrIjoiOWI4NjNiZjUtM2Q4Ni00ZmRjLWFlYTctMjFjNDc4MTU3NmUwIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
