@@ -33,10 +33,9 @@ Analysed an international health dataset to identify patterns in life expectancy
 - <img width="690" height="337" alt="image" src="https://github.com/user-attachments/assets/c92227b6-1631-4c37-842f-3c8eac951284" />
 
 - Interactive dashboard combining all insights
+<img width="1278" height="707" alt="image" src="https://github.com/user-attachments/assets/38218024-8afb-4b21-bd99-930d92db2f50" />
 
-- 
-
-- <img width="700" height="327" alt="image" src="https://github.com/user-attachments/assets/c864ed08-0c61-4eb4-8c08-825baa36a260" />
+  >
 
 
 **Key outcomes:**
