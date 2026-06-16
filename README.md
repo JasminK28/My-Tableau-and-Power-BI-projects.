@@ -20,11 +20,24 @@ Throughout this project, I worked with real-world datasets to explore trends, bu
 Analysed an international health dataset to identify patterns in life expectancy, population, and health indicators.
 
 **Visualisations created:**
-- Bar charts to compare life expectancy across continents  
-- Line charts to track trends over time  
-- Pie charts to show population distribution by gender  
-- Scatter plots to explore relationships between health metrics  
-- Interactive dashboard combining all insights  
+- Bar charts to compare life expectancy across continents
+- <img width="712" height="371" alt="image" src="https://github.com/user-attachments/assets/e84da10c-4569-4a1e-8888-8dcae07cf592" />
+
+- Line charts to track trends over time
+- <img width="710" height="347" alt="image" src="https://github.com/user-attachments/assets/6b65d7b7-44aa-451e-ba92-1fc6ca7ea14b" />
+
+- Pie charts to show population distribution by gender
+-   <img width="702" height="345" alt="image" src="https://github.com/user-attachments/assets/ddd13549-2334-4b98-84fb-d1c5789c9cb1" />
+
+- Scatter plots to explore relationships between health metrics
+- <img width="690" height="337" alt="image" src="https://github.com/user-attachments/assets/c92227b6-1631-4c37-842f-3c8eac951284" />
+
+- Interactive dashboard combining all insights
+
+- 
+
+- <img width="700" height="327" alt="image" src="https://github.com/user-attachments/assets/c864ed08-0c61-4eb4-8c08-825baa36a260" />
+
 
 **Key outcomes:**
 - Identified disparities in life expectancy between regions  
