@@ -118,3 +118,5 @@ Completed multiple hands-on labs focused on building professional reports and tr
 ## 📌 Summary
 
 This project demonstrates my ability to take raw data, analyse it effectively, and present insights through clear and engaging dashboards. It reflects the core skills required for an entry-level data role, including data handling, visualisation, and analytical thinking.
+
+{link tp my report} (https://app.powerbi.com/view?r=eyJrIjoiOWI4NjNiZjUtM2Q4Ni00ZmRjLWFlYTctMjFjNDc4MTU3NmUwIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
